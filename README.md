@@ -1,44 +1,35 @@
-# Personal Portfolio Website — Azizbek Xajibayev (Zizx4uM)
+<div align="center">
 
-Live personal portfolio website designed for **GitHub Pages**.
+# Azizbek Xajibayev — Personal Portfolio Website
 
-## 🚀 Quick Deployment to GitHub Pages
+[![Live Website](https://img.shields.io/badge/Live%20Website-zizx4um.github.io-0ea5e9?style=flat-square)](https://zizx4um.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Zizx4uM-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zizx4uM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbek-xajibayev-a8787226a/)
 
-To publish this website live at `https://zizx4um.github.io`:
+### [Visit Live Website: https://zizx4um.github.io](https://zizx4um.github.io/)
 
-1. **Create a new repository on GitHub named**:
-   ```
-   Zizx4uM.github.io
-   ```
-   *(Make sure it is public)*
-
-2. **Initialize and push this directory**:
-   ```bash
-   cd /home/zaax/Projects/portfolio-website
-   git init -b main
-   git add .
-   git commit -m "feat: initial portfolio website launch"
-   git remote add origin git@github.com:Zizx4uM/Zizx4uM.github.io.git
-   git push -u origin main
-   ```
-
-3. **Enable GitHub Pages**:
-   - Go to your repository on GitHub: `Settings` > `Pages`.
-   - Under **Build and deployment** > **Source**, choose **Deploy from a branch**.
-   - Select Branch: `main`, folder: `/ (root)`.
-   - Click **Save**.
-
-Your portfolio will be live at:
-👉 **https://zizx4um.github.io**
+</div>
 
 ---
 
-## 💻 Local Preview
+This repository contains the complete source code for my personal portfolio website, automatically hosted and deployed on **GitHub Pages**.
 
-To test or preview locally:
+## Overview
+
+- **Live URL**: [https://zizx4um.github.io](https://zizx4um.github.io/)
+- **Engineering Domains**: Clinical Generative AI, Edge TinyML Systems, CUDA GPU Acceleration, Full-Stack Architecture
+- **Featured Research**: *MicroCropNet: An Energy-Efficient TinyML Framework for Real-Time On-Device Crop Disease Classification in Resource-Constrained Edge Environments* (IEEE Manuscript)
+- **Flagship Systems**: ShifoAI (MedGemma Medical Platform), NazoratAI (Banking Credit Surveillance EWS)
+- **Tech Stack**: HTML5, Tailwind CSS, Vanilla JavaScript (clean typographic layout, zero build dependencies, sub-500ms load time)
+
+---
+
+## Local Development
+
+To run the site locally:
 
 ```bash
-cd /home/zaax/Projects/portfolio-website
 python3 -m http.server 8000
 ```
+
 Then open `http://localhost:8000` in your browser.
