@@ -19,7 +19,7 @@ This repository contains the complete source code for my personal portfolio webs
 - **Live URL**: [https://zizx4um.github.io](https://zizx4um.github.io/)
 - **Engineering Domains**: Clinical Generative AI, Edge TinyML Systems, CUDA GPU Acceleration, Full-Stack Architecture
 - **Featured Research**: *MicroCropNet: An Energy-Efficient TinyML Framework for Real-Time On-Device Crop Disease Classification in Resource-Constrained Edge Environments* (IEEE Manuscript)
-- **Flagship Systems**: ShifoAI (MedGemma Medical Platform), NazoratAI (Banking Credit Surveillance EWS)
+- **Flagship Systems**: [ShifoAI](https://shifoai.site) (MedGemma Medical Platform), [NazoratAI](https://github.com/Zizx4uM/NazoratAI) (Banking Credit Surveillance EWS)
 - **Tech Stack**: HTML5, Tailwind CSS, Vanilla JavaScript (clean typographic layout, zero build dependencies, sub-500ms load time)
 
 ---
